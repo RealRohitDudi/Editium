@@ -1,0 +1,3 @@
+-keep class org.ffmpeg.** { *; }
+-dontwarn org.ffmpeg.**
+-keep class com.editium.** { *; }

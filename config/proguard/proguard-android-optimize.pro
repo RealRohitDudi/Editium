@@ -1,0 +1,3 @@
+-dontobfuscate
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+-keep class com.editium.** { *; }

@@ -1,0 +1,35 @@
+[versions]
+compileSdk = "35"
+minSdk = "26"
+targetSdk = "35"
+composeCompiler = "1.5.15"
+
+[libraries]
+androidx-core-ktx = { module = "androidx.core:core-ktx", version = "1.13.1" }
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version = "1.7.0" }
+material = { module = "com.google.android.material:material", version = "1.12.0" }
+androidx-lifecycle-runtime-ktx = { module = "androidx.lifecycle:lifecycle-runtime-ktx", version = "2.8.4" }
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version = "1.9.1" }
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version = "2.7.7" }
+androidx-media3-exoplayer = { module = "androidx.media3:media3-exoplayer", version = "1.4.1" }
+androidx-media3-decoder = { module = "androidx.media3:media3-exoplayer-decoder", version = "1.4.1" }
+androidx-work-runtime-ktx = { module = "androidx.work:work-runtime-ktx", version = "2.9.1" }
+androidx-room-runtime = { module = "androidx.room:room-runtime", version = "2.6.1" }
+androidx-room-compiler = { module = "androidx.room:room-compiler", version = "2.6.1" }
+androidx-room-ktx = { module = "androidx.room:room-ktx", version = "2.6.1" }
+androidx-opengl = { module = "androidx.opengl:opengl", version = "1.1.0-alpha01" }
+androidx-vulkan = { module = "androidx.graphics:graphics-vulkan", version = "1.0.0-alpha06" }
+kotlinx-coroutines-android = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-android", version = "1.8.1" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version = "1.6.3" }
+androidx-datastore = { module = "androidx.datastore:datastore-preferences", version = "1.1.1" }
+hilt-android = { module = "com.google.dagger:hilt-android", version = "2.51.1" }
+hilt-compiler = { module = "com.google.dagger:hilt-compiler", version = "2.51.1" }
+timber = { module = "com.jakewharton.timber:timber", version = "5.0.1" }
+
+[plugins]
+android-application = { id = "com.android.application", version = "8.5.2" }
+android-library = { id = "com.android.library", version = "8.5.2" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version = "1.9.24" }
+kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version = "1.9.24" }
+hilt = { id = "com.google.dagger.hilt.android", version = "2.51.1" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version = "1.9.24" }
