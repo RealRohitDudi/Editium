@@ -1,0 +1,13 @@
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/cache/CompressedArchiveCache.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/db/dao/ProjectDao.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/fs/MediaStoreAccessor.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/cache/DiskCache.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/db/AppDatabase.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/repository/ProjectRepositoryImpl.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/domain/cache/CacheManager.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/di/DataModule.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/repository/AssetRepositoryImpl.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/cache/LruMemoryCache.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/fs/FileStore.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/data/db/dao/AssetDao.kt
+/Users/rohitdudi/Desktop/Editium/core-data/src/main/kotlin/com/editium/core/data/domain/system/ThermalManager.kt

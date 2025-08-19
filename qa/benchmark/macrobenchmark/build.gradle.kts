@@ -8,7 +8,10 @@ android {
     compileSdk = libs.versions.compileSdk.get().toInt()
 
     sourceSets {
-        getByName("androidTest") { java.srcDirs("src/androidTest/kotlin") }
+        getByName("main") {
+            java.srcDirs("src/main/kotlin")
+            java.srcDirs("src/androidTest/kotlin") // Include androidTest sources in main
+        }
     }
 
     defaultConfig { minSdk = libs.versions.minSdk.get().toInt() }

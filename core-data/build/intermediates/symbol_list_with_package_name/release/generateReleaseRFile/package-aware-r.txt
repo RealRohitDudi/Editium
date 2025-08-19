@@ -1,0 +1,2 @@
+com.editium.core.data
+xml file_paths

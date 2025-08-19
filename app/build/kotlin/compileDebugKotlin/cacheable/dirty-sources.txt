@@ -1,0 +1,16 @@
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/gestures/GestureHandler.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/editor/VideoEditorViewModel.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/App.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/projects/ProjectBrowserFragment.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/di/AppModule.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/editor/VideoEditorFragment.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/editor/EditorScreen.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/effects/EffectsPanel.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/MainActivity.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/views/TimelineView.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/audio/AudioMixerPanel.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/projects/ProjectsScreen.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/input/CustomKeyboard.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/export/ExportDialog.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/export/ExportScreen.kt
+/Users/rohitdudi/Desktop/Editium/app/src/main/kotlin/com/editium/app/ui/views/PreviewSurface.kt

@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.library)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.kotlin.kapt)
 }
 
 android {
@@ -17,8 +18,20 @@ android {
         minSdk = libs.versions.minSdk.get().toInt()
         consumerProguardFiles("${rootDir}/config/proguard/proguard-consumer-rules.pro")
     }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
 }
 
 dependencies {
     implementation(libs.androidx.core.ktx)
+    implementation(libs.material)
+    implementation(libs.hilt.android)
+    kapt(libs.hilt.compiler)
 }

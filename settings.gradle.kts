@@ -10,6 +10,9 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // Add additional repositories for missing dependencies
+        maven { url = uri("https://repo1.maven.org/maven2") }
+        maven { url = uri("https://jcenter.bintray.com") }
     }
     versionCatalogs {
         create("libs") {
